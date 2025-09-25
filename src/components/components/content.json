@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_components_contents",
+  "info": {
+    "displayName": "content",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description_type": {
+      "type": "enumeration",
+      "enum": [
+        "list",
+        "text"
+      ]
+    },
+    "description": {
+      "type": "json"
+    },
+    "activity": {
+      "type": "component",
+      "component": "components.activity-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

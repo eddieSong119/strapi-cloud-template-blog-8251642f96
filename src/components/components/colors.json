@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_components_colors",
+  "info": {
+    "displayName": "Colors",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "Colors": {
+      "type": "enumeration",
+      "enum": [
+        "terracotta",
+        "stone",
+        "midnight",
+        "steel",
+        "mist",
+        "parchment"
+      ]
+    }
+  },
+  "config": {}
+}

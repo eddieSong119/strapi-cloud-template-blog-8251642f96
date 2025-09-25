@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "journeys",
+  "info": {
+    "singularName": "journey",
+    "pluralName": "journeys",
+    "displayName": "journey"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "page": {
+      "type": "dynamiczone",
+      "components": [
+        "components.section",
+        "components.page-name"
+      ]
+    }
+  }
+}

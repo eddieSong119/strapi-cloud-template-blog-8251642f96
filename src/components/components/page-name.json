@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_components_page_names",
+  "info": {
+    "displayName": "page_name"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
