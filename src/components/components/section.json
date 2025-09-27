@@ -24,6 +24,9 @@
     "description_breakAt": {
       "type": "string"
     },
+    "long_description": {
+      "type": "blocks"
+    },
     "CTA": {
       "type": "string"
     },

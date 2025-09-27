@@ -64,6 +64,7 @@ export interface ComponentsSection extends Struct.ComponentSchema {
     description_breakAt: Schema.Attribute.String;
     intro: Schema.Attribute.String;
     intro_breakAt: Schema.Attribute.String;
+    long_description: Schema.Attribute.Blocks;
     title: Schema.Attribute.String;
     title_breakAt: Schema.Attribute.String;
   };
